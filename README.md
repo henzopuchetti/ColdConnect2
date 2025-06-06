@@ -97,10 +97,12 @@ A API não é apenas CRUD. Ela aplica lógica automatizada no backend para reagi
 
 ## ⚙️ Como Rodar o Projeto
 
-Pré-requisitos:
+### Pré-requisitos:
 - Java 17 instalado
 - Maven instalado
 
+### Passos:
+```bash
 # Clone o repositório
 git clone https://github.com/seuusuario/ColdConnect.git
 cd ColdConnect
@@ -110,6 +112,7 @@ mvn clean install
 
 # Rode a aplicação
 mvn spring-boot:run
+```
 
 A API estará disponível em:
 📍 http://localhost:8080
