@@ -131,7 +131,6 @@ Após rodar o projeto, acesse:
 
 ## 🔮 Possíveis Melhorias Futuras
 
-- Autenticação JWT e controle de usuários
 - Integração com sensores reais (IoT, MQTT, etc)
 - Notificações via SMS, WhatsApp ou Firebase
 - Painel web com visualização geográfica dos alertas
