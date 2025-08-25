@@ -104,8 +104,8 @@ A API não é apenas CRUD. Ela aplica lógica automatizada no backend para reagi
 ### Passos:
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/ColdConnect.git
-cd ColdConnect
+git clone https://github.com/henzopuchetti/ColdConnect2.git
+cd ColdConnect2
 
 # Compile o projeto
 mvn clean install
